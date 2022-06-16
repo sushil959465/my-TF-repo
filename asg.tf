@@ -1,0 +1,1 @@
+# ASG with mix of on demand & spot instances
